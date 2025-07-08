@@ -17,7 +17,7 @@ const App = () => {
     exercises: 14
   }
 
-  const courseinfo = {}
+
 
   return (
     <>
